@@ -13,6 +13,7 @@
 //- сложно добавить поддержку нового вида продуктов.
 
 using System;
+
 class MainApp
 {
     public static void MainM()
