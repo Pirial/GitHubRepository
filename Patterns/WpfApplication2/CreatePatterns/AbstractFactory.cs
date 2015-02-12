@@ -27,6 +27,7 @@ class MainApp
         Client c2 = new Client(factory2);
         c2.Run();
     }
+
     // Wait for user input Console.Read();
     // "AbstractFactory"
     abstract class AbstractFactory
